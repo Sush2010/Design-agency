@@ -5,7 +5,7 @@
 📌 About the Project
 
 A modern, fully responsive design agency landing page built using Next.js and React.
-It features a clean UI with multiple sections including Hero, Services, Portfolio, Contact, and Footer.
+It features a clean UI with multiple sections including Home, Services, Portfolio, Contact, and Footer.
 
 The project focuses on:
 
